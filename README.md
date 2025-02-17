@@ -12,15 +12,15 @@
 🎯 **Meta**: Especializarme en Java y complementarlo con herramientas clave como **Spring**, **MySQL** y **JUnit** o las que se precisen. 🚀    
 📫 **Contacto**: [LinkedIn](https://linkedin.com/in/noah-glez)    
 
-## 📊 Mis estadísticas de GitHub  
+<!--## 📊 Mis estadísticas de GitHub  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=softDevNoah&show_icons=true&theme=radical&cachebust=1)    
 
 ### 📈 Lenguajes más utilizados
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=softDevNoah&layout=compact)    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=softDevNoah&layout=compact) -->   
 
 <!-- [Mis estadísticas en GitHub](https://github.com/softDevNoah) -->    
 
-![Seguidores](https://img.shields.io/github/followers/softDevNoah?style=flat&logo=github)    
+<!--![Seguidores](https://img.shields.io/github/followers/softDevNoah?style=flat&logo=github)    -->
 
 <!-- ![Repositorios](https://img.shields.io/github/repos/softDevNoah?style=flat&logo=github) -->    
 
