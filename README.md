@@ -18,7 +18,7 @@
 ### 📈 Lenguajes más utilizados
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=softDevNoah&layout=compact)    
 
-[Mis estadísticas en GitHub](https://github.com/softDevNoah)    
+<!-- [Mis estadísticas en GitHub](https://github.com/softDevNoah) -->    
 
 ![Seguidores](https://img.shields.io/github/followers/softDevNoah?style=flat&logo=github)    
 
