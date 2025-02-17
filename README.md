@@ -13,7 +13,8 @@
 📫 **Contacto**: [LinkedIn](https://linkedin.com/in/noah-glez)    
 
 ## 📊 Mis estadísticas de GitHub  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=softDevNoah&show_icons=true&theme=radical)    
+![GitHub Stats](![GitHub Stats](https://github-readme-stats.vercel.app/api?username=softDevNoah&show_icons=true&theme=radical&cachebust=1)
+)    
 
 ### 📈 Lenguajes más utilizados
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=softDevNoah&layout=compact)    
